@@ -1,0 +1,14 @@
+Q1
+The output is below.
+
+Q2
+
+ No, I
+  Wug
+   .
+    I
+     wug
+      .
+
+Q3
+ Ping() will be calling itself in the body of the function.
